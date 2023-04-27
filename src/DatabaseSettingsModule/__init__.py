@@ -6,7 +6,7 @@ This is a module which has Class for DB and DB Settings
 
 class Database(object):
     """
-    DB Class which is responsible for connecting to the db
+    Db Class which is responsible for connecting to the db
 
     """
 
